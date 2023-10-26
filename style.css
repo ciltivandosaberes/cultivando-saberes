@@ -1,4 +1,21 @@
-button::first-line {
+.pudim{
+    text-align: center;
+  width: 100%;
+}
+button ::first-line{
     background-color: green;
-    
+}
+.maduu{
+    text-align: center;
+    font-size: 30px;
+    background-color: beige;
+}
+.lorena{
+    text-align: center;
+    display: inline;
+    width: 20%;
+}
+.pato{
+   text-align: left;
+   width: 1%;
 }
